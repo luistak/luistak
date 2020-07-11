@@ -1,10 +1,9 @@
-# Hi there! 👋
+[![Takah console output](https://res.cloudinary.com/daiqkausy/image/upload/v1594429722/carbon_9_fz99wu.png)](https://twitter.com/_luistak)
 
-<p>
-  <img align="left" height="400" src="https://res.cloudinary.com/daiqkausy/image/upload/v1594429722/carbon_9_fz99wu.png">
-<p>
+Hi there! 👋
 
-## Reach me out  on:
+Reach me out  on:
+
 - [Twitter](https://twitter.com/_luistak)
 - [Linkedin](https://www.linkedin.com/in/luis-takahashi/)
 - [Dev.To](https://dev.to/luistak)
