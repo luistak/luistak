@@ -1,4 +1,4 @@
-[![Takah console output](https://res.cloudinary.com/daiqkausy/image/upload/v1594429722/carbon_9_fz99wu.png)](https://twitter.com/_luistak)
+[![Takah console output](https://res.cloudinary.com/daiqkausy/image/upload/c_scale,h_400/v1594429722/carbon_9_fz99wu.png)](https://twitter.com/_luistak)
 
 Hi there! 👋
 
